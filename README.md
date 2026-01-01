@@ -56,12 +56,12 @@ Minhu-React	Collection of my React practice projects	React.js
 
 🌐 Connect with Me
 
-📧 Email: minhuparthasarathy07@gmail.com
-💼 LinkedIn: linkedin.com/in/minhu-parthasarathy07
+📎 LinkedIn: linkedin.com/in/minhu-parthasarathy07
+
 🦉 Duolingo: duolingo.com/profile/MINHUPARTH
 
 ⭐ “Building, learning, and growing one commit at a time.”
-- Minhu Parthasarathy
+~ Minhu Parthasarathy
 
 
 
