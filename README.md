@@ -4,7 +4,8 @@
 
 🚀 About Me
 
-I'm a passionate Computer Science Engineering student with a strong interest in web development, open source, and problem-solving. Currently, I’m serving as a Committee Member and Content Team Member at Tezos Nexus (CIT) and a Web Developer at Google Developer Groups (GDG).
+I'm a passionate Computer Science Engineering student with a strong interest in web development, open source, and problem-solving.
+Currently, I’m serving as a Committee Member and Content Team Member at Tezos Nexus (CIT) and a Web Developer at Google Developer Groups (GDG).
 
 I’m on a journey to become a front-end developer who builds impactful digital experiences, contributes to GSoC, and thrives in hackathons and buildathons.
 
@@ -65,8 +66,7 @@ Minhu-React	Collection of my React practice projects	React.js
 🧭 Outside of coding, you’ll probably find me exploring new ideas, reflecting on growth, or planning my next hackathon project!
 
 🌐 Connect with Me
-<p align="center"> <a href="mailto:minhuparthasarathy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/minuparthasarathyminhuparthasarathyhy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.duolingo.com/profile/MINHUPARTHASARATHY"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"/></a> </p>
+<p align="center"> <a href="mailto:minhuparthasarathy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/minhu-parthasarathy07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.duolingo.com/profile/MINHUPARTH"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"/></a> </p>
 
 ⭐ “Building, learning, and growing one commit at a time.”
 — Minhu Parthasarathy
-
