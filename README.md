@@ -55,11 +55,14 @@ Minhu-React	Collection of my React practice projects	React.js
 🧭 When I’m not coding, I’m brainstorming new project ideas or reflecting on self-growth.
 
 🌐 Connect with Me
-<p><a href="mailto:minhuparthasarathy07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-href="https://www.linkedin.com/in/minhu-parthasarathy07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.duolingo.com/profile/MINHUPARTH"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"/></a> </p>
+
+📧 Email: minhuparthasarathy07@gmail.com
+💼 LinkedIn: linkedin.com/in/minhu-parthasarathy07
+🦉 Duolingo: duolingo.com/profile/MINHUPARTH
 
 ⭐ “Building, learning, and growing one commit at a time.”
 - Minhu Parthasarathy
+
 
 
 
