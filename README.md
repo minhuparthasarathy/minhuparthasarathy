@@ -1,51 +1,94 @@
+# 👋 Hey there! I'm **Minhu Parthasarathy**
 
-# 👋🏽 Hi, I'm Minhu!
-
-🎯 Aspiring Front-End Developer  
-💻 Currently learning: JavaScript, Git, and GitHub  
-📦 Project Count: 5 (and growing!)  
-🚀 Goal: To become a high-paid front end developer
+🎓 **Computer Science Engineering Student** | 💻 **Web Developer** | 🌐 **Tech Enthusiast**
 
 ---
 
-## 🛠️ My Projects So Far
+## 🚀 About Me
 
-| Project Name | What It Does |
-|-------------|--------------|
-| **Excuse Generator 9000** | Instantly generates creative excuses when you're *not in the mood to explain*. |
-| **Mood Tracker** | Click-based tool to log your moods — happy, sad, angry, bored — with live image updates. |
-| **To-Do List** | Add/remove tasks using basic array logic and prompt boxes — beginner-friendly & dynamic. |
-| **Tired Button** | A dramatic button that talks back and gives up after 3 clicks. Pure front-end fun. |
-| **Roast Your Friend with a Broken Printer** | Let out some sarcasm… but in 300 characters or less, because the printer is tired too 😴. |
+I'm a passionate Computer Science Engineering student with a strong interest in **web development**, **open source**, and **problem-solving**. Currently, I’m serving as a **Committee Member and Content Team Member** at **Tezos Nexus (CIT)** and a **Web Developer** at **Google Developer Groups (GDG)**.
+
+I’m on a journey to become a **front-end developer** who builds impactful digital experiences, contributes to **GSoC**, and thrives in **hackathons** and **buildathons**.
 
 ---
 
-## 🧠 What I Know So Far
+## 💼 Current Involvements
 
-- HTML & CSS
-- JavaScript (DOM, events, arrays, functions, etc.)
-- Git & GitHub (with README and License setup)
-
----
-
-## 🔭 What’s Next?
-
-- Data Structures & Algorithms (DSA)
-- Hosting projects with GitHub Pages
-- Creating responsive, interactive front-end projects
+* 🧩 **Committee & Content Member** at *Tezos Nexus (CIT)*
+* 🌍 **Web Developer** at *Google Developer Groups (GDG)*
+* ⚙️ Working on a **Product Launch Page** for *Tezos Nexus in Buildathon 2025*
+* 💡 Participated in **Kaval Hackathon 2025**
+* 🔨 Building a blockchain-based evidence management system (*BLOCKCHAIN-EVIDENCE-SYSTEM*)
 
 ---
 
-## 🎨 Fun Fact
+## 💬 What I’m Up To
 
-> I treat every project like a story — sometimes dramatic, sometimes funny, but always original ✨
-
----
-
-## 📬 Reach Me (Coming Soon!)
-
-Working on building a portfolio site + LinkedIn + Email for developer connections. Stay tuned!
+* 🧠 Practicing **LeetCode** daily in **C++**
+* 📚 Strengthening **DSA** fundamentals (15+ core patterns, 60+ variations)
+* 🌱 Learning **React.js** (beyond beginner level!) and exploring **React Native**
+* 🗣️ Improving **public speaking**, **teamwork**, and **collaboration skills**
+* 💬 Learning **French** on *Duolingo* (Top 3% learners, score: 21)
 
 ---
 
-## 🧑🏽‍💻 Created with love, logic, and a little chaos — by Minhu
+## 🧑‍💻 Technical Skills
+
+**Languages:**
+`C++`, `JavaScript`, `HTML`, `CSS`, `Python`
+
+**Frameworks & Tools:**
+`React.js`, `React Native (Beginner)`, `Figma`, `Canva`
+
+**Core Areas:**
+`Web Development`, `Blockchain Basics`, `Data Structures & Algorithms`, `UI Design`, `🤝 Teamwork & Collaboration`
+
+---
+
+## 🏆 Highlights
+
+* 🌟 Top **25% Active Members** on LinkedIn
+* 🥇 Top **3% Learners** on Duolingo
+* 🧩 Completed 60+ DSA pattern variations in JavaScript
+* ⚡ Built 10+ personal and academic projects (see pinned repositories below)
+
+---
+
+## 📂 Featured Projects
+
+| Project                            | Description                                              | Tech Stack           |
+| ---------------------------------- | -------------------------------------------------------- | -------------------- |
+| **BLOCKCHAIN-EVIDENCE-SYSTEM**     | Tamper-proof blockchain-based evidence management system | React.js, JavaScript |
+| **SHOP-EASE**                      | Full-featured e-commerce website                         | HTML, CSS, JS        |
+| **WEB-SERIES-RECOMMENDATION-PAGE** | Recommendation platform for web series                   | React.js, HTML, CSS  |
+| **Mood Tracker**                   | Track your moods and emotions in a fun way               | HTML, CSS, JS        |
+| **Minhu-LeetCode**                 | My daily LeetCode solutions 💪                           | C++                  |
+| **Minhu-React**                    | A collection of my React practice projects               | React.js             |
+
+And much more!
+---
+
+## 🌈 Beyond Code
+
+✨ I love blending **creativity with technology** — whether that’s designing in **Figma**, building fun projects like *“Roast Your Friend with a Broken Printer”*, or experimenting with interactive **web UI concepts**.
+
+🎨 I also enjoy designing posters and prototypes in **Canva**, learning **French** on *Duolingo*, and sharing **educational posts** on **LinkedIn** to inspire other learners.
+
+🧭 Outside of coding, you’ll probably find me exploring new ideas, reflecting on growth, or planning my next hackathon project!
+
+---
+
+## 🌐 Connect with Me
+
+Gmail: [minhuparthasarathy07@gmail.com](mailto:minhuparthasarathy07@gmail.com)
+
+LinkedIn: MINHU PARTHASARATHY
+
+Duolingo: MINHUPARTHASARATHY
+
+---
+
+⭐ *“Building, learning, and growing one commit at a time.”*
+— *Minhu Parthasarathy*
+
+
