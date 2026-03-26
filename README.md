@@ -66,6 +66,7 @@ I’m on a mission to become a **Front-End Developer** who builds impactful digi
 🥇 Top **3% Learners** on *Duolingo*  
 🧩 Solved **60+ DSA pattern variations** in *JavaScript*  
 ⚡ Built **10+ personal & academic projects**  
+🏅Did 170+ leetcode problems in C++
 
 ---
 
