@@ -6,9 +6,9 @@
 
 Chennai Institute of Technology · CGPA: 9.19/10
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhuparthasarathy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhu-parthasarathy07/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2MyV23sFEd/)
 
 </div>
 
@@ -16,145 +16,132 @@ Chennai Institute of Technology · CGPA: 9.19/10
 
 ## About Me
 
-I'm a Computer Science Engineering student passionate about building interactive web applications, solving algorithmic problems, and exploring emerging technologies.
+I'm a Computer Science Engineering student passionate about building responsive web applications, solving algorithmic problems, and creating intuitive digital experiences.
 
-My primary focus is **front-end development**, where I combine functionality with thoughtful UI/UX design to create responsive and user-friendly digital experiences. I also enjoy contributing to open-source projects, exploring blockchain technologies, and continuously strengthening my problem-solving skills.
+My primary focus is front-end development, with an interest in UI/UX design, open-source development, and blockchain technology. I enjoy turning ideas into functional projects while continuously improving my development and problem-solving skills.
 
-- Developing responsive and interactive web applications.
+- Building interactive web applications using React.js and JavaScript.
 - Practicing Data Structures and Algorithms using C++.
-- Exploring open-source development and collaborative projects.
-- Learning through hands-on projects and technical communities.
+- Exploring open-source development and collaborative coding.
+- Designing user-friendly interfaces and prototypes with Figma.
 
 ---
 
 ## Technical Experience
 
-### Content Development Intern — Tezos Club Nexus, CIT
-`September 2025 – Present` · Hybrid
+### Front-End Development Intern | Annexra
 
-- Create and edit technical content related to blockchain and Web3.
-- Prepare technical documentation and promotional materials for events.
-- Support technical communication and developer community initiatives.
+`February 2026 – October 2026` · Remote
 
-### Web Developer — Google Developer Groups, CIT
+- Developed responsive and interactive user interfaces using modern front-end technologies.
+- Collaborated with developers to improve UI/UX and web application performance.
+- Built reusable components and optimized front-end functionality.
+
+### Web Developer | Google Developer Groups – CIT
+
 `November 2025 – Present` · Remote
 
 - Build and maintain interactive web applications for community events.
-- Develop user-friendly interfaces and contribute to website improvements.
-- Collaborate with developers to improve usability and front-end functionality.
+- Collaborate with developers to enhance user experience and website performance.
+- Contribute to community-focused web development initiatives.
 
-### Ambassador & Contributor — GirlScript Summer of Code (GSSoC)
+### Content Team Member | Tezos Club Nexus, CIT
+
+`November 2025 – Present` · Hybrid
+
+- Create and edit technical content related to blockchain and Web3.
+- Assist with technical documentation and event promotional materials.
+- Support technical communication and community initiatives.
+
+### Ambassador & Contributor | GirlScript Summer of Code
+
 `May 2026 – July 2026` · Remote
 
-- Promote open-source contribution and encourage student participation.
+- Promote open-source development and encourage student participation.
 - Contribute to open-source initiatives and collaborative development.
-- Gain hands-on experience with GitHub workflows and team-based development.
+- Gain hands-on experience with GitHub and collaborative workflows.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 <div align="center">
 
-### Technologies & Tools
+### Front-End Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React" />
 
-<p>
-  HTML5 · CSS3 · JavaScript · React.js · Figma · GitHub
-</p>
+### Design & Development Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma, Git and GitHub" />
 
 </div>
 
-**Core Areas:** Front-End Development · Responsive Web Design · UI/UX Design · Data Structures & Algorithms · Blockchain Fundamentals · Open Source Collaboration
+**Core Skills:** HTML5 · CSS3 · JavaScript · React.js · Figma · Git · GitHub · Responsive Web Design · UI/UX Design · Data Structures & Algorithms
 
 ---
 
 ## Featured Projects
 
-### 1. NetWorkOS — AI-Powered Collaborator Knowledge Graph
+### NetWorkOS — AI-Powered Collaborator Knowledge Graph
 
-An AI-powered collaborator memory system built using Antigravity CLI and Obsidian that transforms natural-language descriptions into a searchable engineering knowledge graph.
+An AI-powered collaborator memory system built with Antigravity CLI and Obsidian that transforms natural-language descriptions into a searchable engineering knowledge graph.
 
-- Captures collaborator information using natural language.
+- Captures collaborator information through natural language.
 - Creates and updates structured collaborator notes.
 - Connects people with their skills, projects, technologies, and events.
 
 **Technologies:** Antigravity CLI, Obsidian, AI-Assisted Development
 
-[View Project](https://github.com/YOUR_GITHUB_USERNAME)
+[View Repository](https://github.com/minhuparthasarathy/NetworkOS)
 
-### 2. Blockchain-Based Evidence Management System
+### Web Series Recommendation Platform
 
-A blockchain-focused application concept for managing digital evidence with an emphasis on data integrity and traceability.
+A React.js application that allows users to explore web series and share personalized recommendations.
 
-- Designed a web interface for managing evidence records.
-- Explored blockchain concepts for tamper-resistant record management.
-- Focused on usability and transparent evidence workflows.
-
-**Technologies:** React.js, JavaScript, Blockchain Fundamentals
-
-[View Project](https://github.com/YOUR_GITHUB_USERNAME)
-
-### 3. Web Series Recommendation Platform
-
-A React.js web application that allows users to discover web series and contribute their own recommendations.
-
-- Built interactive forms for user details and preferences.
+- Built interactive forms to collect user details and preferences.
 - Displayed recommendations with images, summaries, and ratings.
 - Implemented star ratings, user reviews, and conditional rendering.
-- Used React Router for navigation between multiple pages.
+- Used React Router for navigation across multiple pages.
 
 **Technologies:** React.js, React Router, HTML, CSS, JavaScript
 
-[View Project](https://github.com/YOUR_GITHUB_USERNAME)
+[View Repository](https://github.com/minhuparthasarathy/WEB-SERIES-RECOMMENDATION-PAGE)
 
-### 4. Kindora — Kindness Bank
+### Kindora — Kindness Bank
 
-A gamified desktop application prototype designed in Figma to encourage users to perform and record acts of kindness.
+A gamified desktop application prototype designed in Figma to encourage users to perform and track acts of kindness.
 
-- Designed sign-up and login flows, daily quests, and activity tracking.
+- Designed user flows for authentication, daily quests, and activity tracking.
 - Created achievement badges, progress indicators, and leaderboards.
-- Applied gamification, visual hierarchy, and user-centered design principles.
+- Applied gamification and visual hierarchy to create an engaging user experience.
 
 **Tools:** Figma, UI/UX Design, Prototyping
 
-[View Prototype](https://www.figma.com/)
+[View Figma Prototype](https://www.figma.com/proto/51pH7LN4Z8uzKjoxVWSEMh/KINDNESS-BANK?node-id=0-1)
 
 ---
 
 ## Achievements
 
 - Solved **400+ LeetCode problems** using C++.
-- Maintained a **300+ day LeetCode streak**, demonstrating consistency in problem-solving.
+- Maintained a **300+ day LeetCode streak**.
 - Practiced **60+ DSA pattern variations** in JavaScript.
-- Built **10+ personal and academic projects** focused on development and design.
-- Achieved a **perfect score in Computer Science in Class 12**.
+- Built **10+ personal and academic projects**.
+- Achieved a **perfect score in Class 12 Computer Science**.
 - Maintained a **9.19/10 CGPA** at Chennai Institute of Technology.
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhuparthasarathy&show_icons=true&theme=tokyonight&hide_border=true" alt="Minhu's GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhuparthasarathy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=minhuparthasarathy&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -162,11 +149,11 @@ A gamified desktop application prototype designed in Figma to encourage users to
 
 ## Current Focus
 
-- Strengthening front-end development skills with React.js.
-- Building polished, responsive, and accessible user interfaces.
-- Improving Data Structures and Algorithms fundamentals.
+- Building polished, responsive web applications with React.js.
+- Strengthening Data Structures and Algorithms fundamentals.
 - Contributing to open-source projects and preparing for Google Summer of Code.
-- Exploring blockchain applications and new approaches to interactive web development.
+- Improving UI/UX design and front-end development practices.
+- Exploring blockchain applications and emerging technologies.
 
 ---
 
@@ -174,8 +161,8 @@ A gamified desktop application prototype designed in Figma to encourage users to
 
 - **Email:** [minhuparthasarathy07@gmail.com](mailto:minhuparthasarathy07@gmail.com)
 - **LinkedIn:** [Minhu Parthasarathy](https://www.linkedin.com/in/minhu-parthasarathy07/)
-- **GitHub:** [My GitHub Profile](https://github.com/)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/)
+- **GitHub:** [minhuparthasarathy](https://github.com/minhuparthasarathy)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/2MyV23sFEd/)
 
 ---
 
