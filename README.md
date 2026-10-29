@@ -1,117 +1,186 @@
+# Minhu Parthasarathy
+
 <div align="center">
 
-# 🌟 Hey there! I'm <span style="font-size:40px;">**Minhu Parthasarathy**</span>  
-🎓 <b>Computer Science Engineering Student</b>  
-💻 <b>Web Developer</b>  
-🌐 <b>Tech Enthusiast</b>
+### Computer Science Engineering Student | Front-End Developer
+
+Chennai Institute of Technology · CGPA: 9.19/10
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhu-parthasarathy07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+## About Me
 
-I'm a passionate **Computer Science Engineering student** who loves blending **creativity with technology**.  
-Currently, I’m a **Committee Member & Content Team Member** at **Tezos Nexus (CIT)** and a **Web Developer** at **Google Developer Groups (GDG)**.  
+I'm a Computer Science Engineering student passionate about building interactive web applications, solving algorithmic problems, and exploring emerging technologies.
 
-I’m on a mission to become a **Front-End Developer** who builds impactful digital experiences, contributes to **GSoC**, and thrives in **hackathons & buildathons**. 💪  
+My primary focus is **front-end development**, where I combine functionality with thoughtful UI/UX design to create responsive and user-friendly digital experiences. I also enjoy contributing to open-source projects, exploring blockchain technologies, and continuously strengthening my problem-solving skills.
 
----
-
-## 💼 **Current Involvements**
-
-🧩 **Committee & Content Member** — *Tezos Nexus (CIT)*  
-🌍 **Web Developer** — *Google Developer Groups (GDG)*  
-⚙️ Building a **Product Launch Page** (*Buildathon 2025*)  
-💡 Participated in **Kaval Hackathon 2025**  
-🔨 Developing a **Blockchain-Based Evidence Management System**
+- Developing responsive and interactive web applications.
+- Practicing Data Structures and Algorithms using C++.
+- Exploring open-source development and collaborative projects.
+- Learning through hands-on projects and technical communities.
 
 ---
 
-## 💬 **What I’m Up To**
+## Technical Experience
 
-🧠 Solving **LeetCode** problems daily in **C++**  
-📚 Mastering **DSA** (15+ patterns, 60+ variations)  
-🌱 Deep-diving into **React.js** & exploring **React Native**  
-🗣️ Sharpening **teamwork**, **collaboration**, and **public speaking**  
-💬 Learning **French** on *Duolingo* — Top 3% Learner 🇫🇷  
+### Content Development Intern — Tezos Club Nexus, CIT
+`September 2025 – Present` · Hybrid
+
+- Create and edit technical content related to blockchain and Web3.
+- Prepare technical documentation and promotional materials for events.
+- Support technical communication and developer community initiatives.
+
+### Web Developer — Google Developer Groups, CIT
+`November 2025 – Present` · Remote
+
+- Build and maintain interactive web applications for community events.
+- Develop user-friendly interfaces and contribute to website improvements.
+- Collaborate with developers to improve usability and front-end functionality.
+
+### Ambassador & Contributor — GirlScript Summer of Code (GSSoC)
+`May 2026 – July 2026` · Remote
+
+- Promote open-source contribution and encourage student participation.
+- Contribute to open-source initiatives and collaborative development.
+- Gain hands-on experience with GitHub workflows and team-based development.
 
 ---
 
-## 🧑‍💻 **Technical Skills**
+## Technical Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+### Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
+</p>
+
+<p>
+  HTML5 · CSS3 · JavaScript · React.js · Figma · GitHub
+</p>
 
 </div>
 
-**Core Areas:**  
-🌐 `Web Development` · 🔗 `Blockchain Basics` · 🧩 `Data Structures & Algorithms` · 🎨 `UI Design` · **🤝 Teamwork & Collaboration**
+**Core Areas:** Front-End Development · Responsive Web Design · UI/UX Design · Data Structures & Algorithms · Blockchain Fundamentals · Open Source Collaboration
 
 ---
 
-## 🏆 **Highlights**
+## Featured Projects
 
-🌟 Top **25% Active Members** on *LinkedIn*  
-🥇 Top **3% Learners** on *Duolingo*  
-🧩 Solved **60+ DSA pattern variations** in *JavaScript*  
-⚡ Built **10+ personal & academic projects**  
-🏅Did 170+ leetcode problems in C++
+### 1. NetWorkOS — AI-Powered Collaborator Knowledge Graph
+
+An AI-powered collaborator memory system built using Antigravity CLI and Obsidian that transforms natural-language descriptions into a searchable engineering knowledge graph.
+
+- Captures collaborator information using natural language.
+- Creates and updates structured collaborator notes.
+- Connects people with their skills, projects, technologies, and events.
+
+**Technologies:** Antigravity CLI, Obsidian, AI-Assisted Development
+
+[View Project](https://github.com/YOUR_GITHUB_USERNAME)
+
+### 2. Blockchain-Based Evidence Management System
+
+A blockchain-focused application concept for managing digital evidence with an emphasis on data integrity and traceability.
+
+- Designed a web interface for managing evidence records.
+- Explored blockchain concepts for tamper-resistant record management.
+- Focused on usability and transparent evidence workflows.
+
+**Technologies:** React.js, JavaScript, Blockchain Fundamentals
+
+[View Project](https://github.com/YOUR_GITHUB_USERNAME)
+
+### 3. Web Series Recommendation Platform
+
+A React.js web application that allows users to discover web series and contribute their own recommendations.
+
+- Built interactive forms for user details and preferences.
+- Displayed recommendations with images, summaries, and ratings.
+- Implemented star ratings, user reviews, and conditional rendering.
+- Used React Router for navigation between multiple pages.
+
+**Technologies:** React.js, React Router, HTML, CSS, JavaScript
+
+[View Project](https://github.com/YOUR_GITHUB_USERNAME)
+
+### 4. Kindora — Kindness Bank
+
+A gamified desktop application prototype designed in Figma to encourage users to perform and record acts of kindness.
+
+- Designed sign-up and login flows, daily quests, and activity tracking.
+- Created achievement badges, progress indicators, and leaderboards.
+- Applied gamification, visual hierarchy, and user-centered design principles.
+
+**Tools:** Figma, UI/UX Design, Prototyping
+
+[View Prototype](https://www.figma.com/)
 
 ---
 
-## 📂 **Featured Projects**
+## Achievements
 
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| **BLOCKCHAIN-EVIDENCE-SYSTEM** | Tamper-proof blockchain-based evidence management system | React.js, JavaScript |
-| **SHOP-EASE** | Full-featured e-commerce website | HTML, CSS, JS |
-| **WEB-SERIES-RECOMMENDATION-PAGE** | Recommendation platform for web series | React.js, HTML, CSS |
-| **Mood Tracker** | Track moods and emotions in a fun way | HTML, CSS, JS |
-| **Minhu-LeetCode** | My daily LeetCode solutions 💪 | C++ |
-| **Minhu-React** | Collection of my React practice projects | React.js |
+- Solved **400+ LeetCode problems** using C++.
+- Maintained a **300+ day LeetCode streak**, demonstrating consistency in problem-solving.
+- Practiced **60+ DSA pattern variations** in JavaScript.
+- Built **10+ personal and academic projects** focused on development and design.
+- Achieved a **perfect score in Computer Science in Class 12**.
+- Maintained a **9.19/10 CGPA** at Chennai Institute of Technology.
 
 ---
 
-## 🌈 **Beyond Code**
+## GitHub Activity
 
-✨ I love creating fun, interactive projects that make tech exciting — like *“Roast Your Friend with a Broken Printer”* 🎭 or my *Mood Tracker*.  
-🎨 I design prototypes in **Figma**, posters in **Canva**, and I’m learning **French** on *Duolingo*.  
-🧭 When I’m not coding, I’m brainstorming new project ideas or reflecting on self-growth.  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 ---
 
-## 🌐 **Connect with Me**
+## Current Focus
 
-📎 **LinkedIn:** [linkedin.com/in/minhu-parthasarathy07](https://www.linkedin.com/in/minhu-parthasarathy07/)  
-🦉 **Duolingo:** [duolingo.com/profile/MINHUPARTH](https://www.duolingo.com/profile/MINHUPARTH)
+- Strengthening front-end development skills with React.js.
+- Building polished, responsive, and accessible user interfaces.
+- Improving Data Structures and Algorithms fundamentals.
+- Contributing to open-source projects and preparing for Google Summer of Code.
+- Exploring blockchain applications and new approaches to interactive web development.
+
+---
+
+## Connect With Me
+
+- **Email:** [minhuparthasarathy07@gmail.com](mailto:minhuparthasarathy07@gmail.com)
+- **LinkedIn:** [Minhu Parthasarathy](https://www.linkedin.com/in/minhu-parthasarathy07/)
+- **GitHub:** [My GitHub Profile](https://github.com/)
+- **LeetCode:** [My LeetCode Profile](https://leetcode.com/)
 
 ---
 
 <div align="center">
 
-⭐ *“Building, learning, and growing one commit at a time.”*  
-**~Minhu Parthasarathy**
+*Building, learning, and growing one commit at a time.*
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
