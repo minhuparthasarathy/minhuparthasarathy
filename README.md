@@ -45,14 +45,6 @@ My primary focus is front-end development, with an interest in UI/UX design, ope
 - Collaborate with developers to enhance user experience and website performance.
 - Contribute to community-focused web development initiatives.
 
-### Content Team Member | Tezos Club Nexus, CIT
-
-`November 2025 – Present` · Hybrid
-
-- Create and edit technical content related to blockchain and Web3.
-- Assist with technical documentation and event promotional materials.
-- Support technical communication and community initiatives.
-
 ### Ambassador & Contributor | GirlScript Summer of Code
 
 `May 2026 – July 2026` · Remote
@@ -137,11 +129,10 @@ A gamified desktop application prototype designed in Figma to encourage users to
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=minhuparthasarathy&show_icons=true&theme=tokyonight&hide_border=true" alt="Minhu's GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhuparthasarathy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=minhuparthasarathy&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhuparthasarathy&theme=tokyonight" alt="Most Used Languages" width="49%" />
 
 </div>
 
