@@ -129,10 +129,12 @@ A gamified desktop application prototype designed in Figma to encourage users to
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Profile Summary" width="75%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Statistics" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhuparthasarathy&theme=tokyonight" alt="Most Used Languages" width="49%" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhuparthasarathy&theme=tokyonight" alt="GitHub Statistics" width="37%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhuparthasarathy&theme=tokyonight" alt="Most Used Languages" width="37%" />
 
 </div>
 
