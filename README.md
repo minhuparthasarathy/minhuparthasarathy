@@ -86,18 +86,18 @@ An AI-powered collaborator memory system built with Antigravity CLI and Obsidian
 
 [View Repository](https://github.com/minhuparthasarathy/NetworkOS)
 
-### Web Series Recommendation Platform
+### PayPal AgentGuard — AI-Powered Checkout Security Middleware
 
-A React.js application that allows users to explore web series and share personalized recommendations.
+A security middleware designed to make autonomous AI-powered shopping safer by enforcing user-defined spending limits, merchant restrictions, and transaction approval policies.
 
-- Built interactive forms to collect user details and preferences.
-- Displayed recommendations with images, summaries, and ratings.
-- Implemented star ratings, user reviews, and conditional rendering.
-- Used React Router for navigation across multiple pages.
+- Designed the UI/UX for an interactive dashboard to manage transaction policies, approvals, and audit records.
+- Developed the front-end dashboard and user interfaces for the AgentGuard application.
+- Focused on creating intuitive user experiences for monitoring transactions and reviewing security decisions.
+- Collaborated with the team to integrate the front-end with the backend services.
 
-**Technologies:** React.js, React Router, HTML, CSS, JavaScript
+**Technologies:** Next.js, React.js, Tailwind CSS, UI/UX Design, Figma
 
-[View Repository](https://github.com/minhuparthasarathy/WEB-SERIES-RECOMMENDATION-PAGE)
+[View Repository](https://github.com/nitheeshcitbecse-eng/Paypal_Hackathon)
 
 ### Kindora — Kindness Bank
 
@@ -125,8 +125,6 @@ A gamified desktop application prototype designed in Figma to encourage users to
 ---
 
 ## GitHub Statistics
-
-GitHub Statistics
 
 <div align="center">
 
